@@ -1,6 +1,6 @@
 import java.text.SimpleDateFormat
-dia
-dia_actual
+def dia
+def dia_actual
 pipeline
 {
     agent any
